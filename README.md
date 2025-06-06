@@ -142,3 +142,5 @@ Global Average Pooling → Dropout(0.3) → Linear(512→7)
   
   დანარჩენი პარამეტრები გადაირჩა და ტრეინიც და ვალიდაციაც 60 პროცენტიან ნიშნულზე დაჯდა. ოვერფიტიც მოვაგვარეთ და ვალიდაციაზეც ასე თუ ისე ნორმალური შედეგი დაიდო.
 
+
+wandb: https://wandb.ai/surmanidzeluka-free-university-of-tbilisi-/facial-expression-recognition/table?nw=nwusersurmanidzeluka
